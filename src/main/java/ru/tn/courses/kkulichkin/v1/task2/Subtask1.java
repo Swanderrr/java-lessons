@@ -11,6 +11,8 @@ import ru.tn.courses.kkulichkin.v1.task2.SubtaskUtils.ModelPhone;
 /**
  *
  * @author kkulichkin
+ * Вариант 1
+ * Написать программу, в которой на вход подается сущность и в зависимости от типа исполняется основная бизнес логика
  */
 public class Subtask1
 {
